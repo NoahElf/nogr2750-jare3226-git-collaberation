@@ -1,9 +1,0 @@
-Person A
-Användre på GitHub: NoahElf
-Namn: Noah Elfström
-Epost: noah.granrot-elfstrom.2750@student.uu.se
-
-Person B:
-Användare på GitHub: Jakojinhh
-Namn: Jakob Ardfors
-epost: jakob.ardfors
