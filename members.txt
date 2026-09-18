@@ -1,3 +1,10 @@
+Person:A
+Användare på Github: NoahElf
+Namn: Noah Elfström
+Email: noah.granrot-elfstrom2750@student.se
+
+
+
 Person B:
 Användare på Github: Jakojenhh
 Namn: Jakob Ardfors
