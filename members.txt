@@ -1,1 +1,4 @@
-Namn
+Person B:
+Användare på Github: Jakojenhh
+Namn: Jakob Ardfors
+Email: Jakob@ardfors.com 
